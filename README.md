@@ -141,9 +141,9 @@ Self-hosted Forge server with custom mods and multiplayer support.
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=rui-ise&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rui-ise&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rui-ise&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rui-ise&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -229,4 +229,9 @@ Happy Coding ♡
 
 ![](https://komarev.com/ghpvc/?username=rui-ise&style=flat-square&color=9370DB)
 
+<<<<<<< Updated upstream
+
+# </p>
+
 </p>
+>>>>>>> Stashed changes
