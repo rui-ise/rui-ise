@@ -193,7 +193,7 @@ Self-hosted Forge server with custom mods and multiplayer support.
 
 <p align="center">
 
-<a href="https://discord.com/users/.mannii">
+<a href="https://discord.com/users/personaveras">
 <img src="https://img.shields.io/badge/Discord-ff8fa3?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
@@ -233,7 +233,6 @@ Happy Coding ♡
 
 ![](https://komarev.com/ghpvc/?username=rui-ise&style=flat-square&color=ff8fa3)
 
-<<<<<<< Updated upstream
 
 # </p>
 
