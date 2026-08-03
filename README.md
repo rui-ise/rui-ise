@@ -42,7 +42,7 @@ Most of my projects revolve around:
 - 🎮 Game Development
 - 🐧 Linux Customization
 - ☁️ Backend Experiments
-- UI/UX Design
+- 💗 UI/UX Design
 - ⚙️ Minecraft Servers
 - 🧠 AI Experiments
 
@@ -131,7 +131,7 @@ Self-hosted Forge server with custom mods and multiplayer support.
 🌸 Cute Interfaces
 🎮 JRPGs
 🐈 Cats
- Pink Themes 💗
+💗 Pink Themes 
 🎵 Guitar
 🎼 Music
 🤖 Automation
@@ -180,8 +180,8 @@ Self-hosted Forge server with custom mods and multiplayer support.
 # <h2 style="color:#ff8fa3;">☕ Fun Facts</h2>
 
 - 🐈 I prefer cute UIs over minimalist ones.
-- Pink is my favorite color.
-- 🎵 I play guitar. 💗
+- 💗 Pink is my favorite color.
+- 🎵 I play guitar. 
 - 🎮 I love JRPGs.
 - ☕ Coffee makes debugging easier.
 - 🌸 I enjoy making cozy-looking software.
