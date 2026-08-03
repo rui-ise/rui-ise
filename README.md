@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=9370DB&text=♡%20PersonaVeras%20♡&fontAlignY=35&fontColor=ffffff&fontSize=48&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=ff9f8f&text=♡%20PersonaVeras%20♡&fontAlignY=35&fontColor=fff5f0&fontSize=48&animation=twinkling" />
 </p>
 
-<h1 align="center">
+<h1 align="center" style="color:#ff8fa3;">
 ૮ ˶ᵔ ᵕ ᵔ˶ ა
 <br>
-Hello, I'm <b>PersonaVeras</b>!
+Hello, I'm <b>personaveras</b>!
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3500&pause=1200&center=true&vCenter=true&width=650&color=C084FC&lines=Computer+Science+Student;Discord+Bot+Developer;Linux+Enjoyer;Building+Cute+Things;Full-Stack+Explorer;Always+Learning+Something+New+%E2%99%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3500&pause=1200&center=true&vCenter=true&width=650&color=ff8fa3&lines=Computer+Science+Student;Discord+Bot+Developer;Linux+Enjoyer;Building+Cute+Things;Full-Stack+Explorer;Always+Learning+Something+New+%E2%99%A1" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&color=ffb38a&lines=Sweet+code+%E2%9D%A4%EF%B8%8F;Peachy+vibes+%F0%9F%8C%9F;Cute+things+only+%F0%9F%92%AB" />
 </p>
 
 ---
@@ -24,10 +28,10 @@ Loading cat... 🐈
 Loading bugs... 🐞
 Loading motivation... ██████████ 100%
 
-Welcome, PersonaVeras!
+Welcome, personaveras!
 ```
 
-Hi! I'm **PersonaVeras**, a Computer Science student from the Philippines.
+Hi! I'm **personaveras**, a Computer Science student from the Philippines.
 
 I enjoy creating things that combine **programming**, **creativity**, and **cute aesthetics**.
 
@@ -38,7 +42,7 @@ Most of my projects revolve around:
 - 🎮 Game Development
 - 🐧 Linux Customization
 - ☁️ Backend Experiments
-- 💜 UI/UX Design
+- � UI/UX Design
 - ⚙️ Minecraft Servers
 - 🧠 AI Experiments
 
@@ -97,13 +101,13 @@ A made-to-order crochet website built using HTML, CSS, JavaScript and TailwindCS
 
 ---
 
-### ⚔️ Static Duels
+### ⚔️ Static Duels (WIP)
 
 A Discord RPG battle system with character transformations, cooldowns, heat mechanics and fast-paced combat.
 
 ---
 
-### ☁️ Trading Decision Support System
+### ☁️ Trading Decision Support System (WIP)
 
 An experimental AI-assisted trading analysis project.
 
@@ -127,7 +131,7 @@ Self-hosted Forge server with custom mods and multiplayer support.
 🌸 Cute Interfaces
 🎮 JRPGs
 🐈 Cats
-💜 Purple Themes
+� Peachy Themes
 🎵 Guitar
 🎼 Music
 🤖 Automation
@@ -176,7 +180,7 @@ Self-hosted Forge server with custom mods and multiplayer support.
 # ☕ Fun Facts
 
 - 🐈 I prefer cute UIs over minimalist ones.
-- 💜 Purple is my favorite color.
+- � Pink and peach are my favorite colors.
 - 🎵 I play guitar.
 - 🎮 I love JRPGs.
 - ☕ Coffee makes debugging easier.
@@ -190,18 +194,18 @@ Self-hosted Forge server with custom mods and multiplayer support.
 <p align="center">
 
 <a href="https://discord.com/users/.mannii">
-<img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-ff8fa3?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <!-- Add more links here -->
 
 <!--
 <a href="https://github.com/rui-ise">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ff9f8f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-ffb38a?style=for-the-badge"/>
 </a>
 -->
 
