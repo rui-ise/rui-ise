@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=9370DB&text=♡%20PersonaVeras%20♡&fontAlignY=35&fontColor=ffffff&fontSize=48&animation=twinkling" />
 </p>
@@ -231,4 +230,3 @@ Happy Coding ♡
 ![](https://komarev.com/ghpvc/?username=rui-ise&style=flat-square&color=9370DB)
 
 </p>
-````
